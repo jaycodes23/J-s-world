@@ -1,7 +1,7 @@
 # Js World!
 
 <!-- Note, the line below this one is what links to your screenshot, **DO NOT REMOVE** -->
-![my_screenshot](./screenshot.jpg)
+![my_screenshot](./Js-World.png)
 
 <!--
 In this file, you should write a brief description of what your
